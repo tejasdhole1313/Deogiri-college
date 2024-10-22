@@ -1,0 +1,46 @@
+.container {
+   display: flex;
+    background-color: #00254a;
+    color: white;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+.left-header {
+    padding-inline-start: 25px;
+}
+.left-header ul  {
+    display: flex;
+    list-style: none;
+    padding-inline-start: 25px;
+    padding: 12px;
+
+
+}
+.left-header  li {
+    
+    font-size: 15px;
+    padding-inline: 10px;
+    
+}
+.left-header i {
+     padding-inline:10px;
+    font-size: 12px;
+   
+}
+
+.right-header {
+    display: flex;
+    list-style: none;
+    padding-right: 25px;
+
+}
+.right-header li {
+    padding:10px;
+}
+.image-h {
+    margin-left: 30px;
+    margin-right: 30px;
+
+
+}
+
